@@ -1,0 +1,149 @@
+"id_hotel","nom_hotel","ville","categorie","type_hotel","nombre_chambre","dispo_namlatic","classifying"
+3,"Complexe Naoui Charef","Djelfa","Station thermal","Loisir",207,23,3
+2,"Hammam Salihine","Biskra","Station thermal","Détente",238,37,5
+4,"Hammam Meloune","Blida","Station thermal","Détente",199,22,4
+5,"Hammam Bouhadjar","Ain Témouchent","Station thermal","Détente",298,21,3
+6,"Hamma Bouhanifia","Mascara","Station thermal","Détente",228,50,3
+7,"Hammam Boughrara","Tlemcen","Station thermal","Détente",134,24,3
+8,"Hamma Rabbi","Saida","Station thermal","Détente",226,31,5
+148,"HOTEL EL BEY","Constantine","Ville ( Urbain )","Détente",279,40,4
+9,"Complexe Touristique Soleil Tour","Ghardaia","Station thermal","Famille",237,26,4
+10,"Hôtel ziban","Biskra","Désert ( Sahara)","Famille",140,20,5
+11,"Hôtel Rym","Beni abbés","Désert ( Sahara)","Famille",262,47,5
+12,"Hôtel Touat","Adrar","Désert ( Sahara)","Loisir",141,23,4
+13,"Hôtel Ain Bouda","Adrar","Désert ( Sahara)","Détente",127,39,3
+14,"Hôtel El Eulmi","El Oued","Désert ( Sahara)","Loisir",147,31,5
+15,"Hôtel Louss","El Oued","Désert ( Sahara)","Affaire",236,32,4
+16,"Hôtel El Mehri","Ouargla","Désert ( Sahara)","Détente",239,48,5
+17,"Hôtel Zaid","Ouargla","Désert ( Sahara)","Détente",146,32,5
+18,"Hôtel El Khaima","Tindouf","Désert ( Sahara)","Détente",127,22,5
+19,"Hôtel M'zab","Ghardaia","Désert ( Sahara)","Affaire",253,32,4
+20,"Hôtel El Djanoub","Ghardaia","Désert ( Sahara)","Famille",105,49,5
+21,"Hôtel Maha","Tamanrasset","Désert ( Sahara)","Détente",163,32,4
+22,"Hôtel El Boustane","El Menia","Désert ( Sahara)","Loisir",106,39,3
+23,"Hôtel Noumerat","Ghardaia","Désert ( Sahara)","Détente",131,38,5
+24,"Hôtel Belvedére","Ghardaia","Désert ( Sahara)","Affaire",186,34,3
+25,"Hôtel El Médiaf","El Oued","Désert ( Sahara)","Famille",215,37,4
+26,"Hôtel Lynatel Palace","Ouargla","Désert ( Sahara)","Loisir",246,49,3
+27,"Hôtel Oasis Touggourt","Ouargla","Désert ( Sahara)","Détente",194,26,3
+28,"hotel raya","Béjaia","balnéaire (Plage)","Affaire",212,35,5
+1,"Hammam Righa","Ain defla","Station thermal","Détente",161,42,3
+29,"hotel chenoua","Tipaza","balnéaire (Plage)","Loisir",256,30,4
+30,"résidence light flash","Oran","balnéaire (Plage)","Détente",128,39,4
+31,"residence el omara","Mostaganem","balnéaire (Plage)","Détente",290,23,5
+32,"hotel phénicia","Mostaganem","balnéaire (Plage)","Famille",105,34,3
+33,"hotel cote ouest","Mostaganem","balnéaire (Plage)","Affaire",283,49,3
+34,"doriane beach club","Ain Timouchent","balnéaire (Plage)","Famille",170,33,3
+35,"karaib's resort","Ain Timouchent","balnéaire (Plage)","Loisir",113,44,3
+36,"atlantis djallab","Ain Timouchent","balnéaire (Plage)","Loisir",277,34,3
+37,"hotel titanic","Skikda","balnéaire (Plage)","Famille",173,28,3
+38,"hotel essalem","Skikda","balnéaire (Plage)","Détente",207,29,5
+39,"hotel la fontaine","Skikda","balnéaire (Plage)","Détente",230,20,4
+40,"hotel sabri","Annaba","balnéaire (Plage)","Famille",220,33,3
+41,"hotel Azul","Alger","balnéaire (Plage)","Famille",299,37,4
+42,"hotel les abbassides","Alger","balnéaire (Plage)","Famille",130,23,4
+43,"Az vague d'or","Alger","balnéaire (Plage)","Loisir",123,42,3
+44,"hotel mazafran","Alger","balnéaire (Plage)","Famille",125,23,3
+45,"hotel sable d'or","Alger","balnéaire (Plage)","Détente",240,41,5
+46,"hotel l'eventail ","Alger","balnéaire (Plage)","Loisir",173,33,4
+47,"hotel Necib beach","Alger","balnéaire (Plage)","Loisir",120,33,5
+48,"hôtel Royal Sakhri","Alger","balnéaire (Plage)","Affaire",299,50,3
+49,"AZ Zeralda","Alger","balnéaire (Plage)","Loisir",183,46,4
+50,"HOTEL LES ABBASSIDES","Alger","balnéaire (Plage)","Affaire",148,20,4
+51,"Hotel HNR","Alger","Ville ( Urbain )","Détente",107,40,3
+52,"Hotel Oasis","Alger","Ville ( Urbain )","Famille",152,43,3
+53,"HOTEL HYDRA","Alger","Ville ( Urbain )","Affaire",222,40,3
+54,"HOTEL HYDRA FAYETTE","Alger","Ville ( Urbain )","Loisir",103,24,5
+55,"HOTEL BEAUX ARTS","Alger","Ville ( Urbain )","Détente",172,37,3
+56,"HOTEL GOLDEN TULIP ROYAUME","Alger","Ville ( Urbain )","Loisir",229,50,5
+57,"HOTEL BEST WESTERN SETIF","Setif","Ville ( Urbain )","Loisir",157,22,5
+58,"HOTEL SOLTANE","Alger","Ville ( Urbain )","Famille",178,39,5
+59,"HOTEL IKRAM ALGER","Alger","Ville ( Urbain )","Famille",213,29,5
+60,"HOTEL IKRAM ORAN","Oran","Ville ( Urbain )","Famille",279,21,4
+61,"HOTEL METROPOLE I","Sidi Belabbes","Ville ( Urbain )","Détente",112,32,5
+62,"HOTEL METROPOLE II","Sidi Belabbes","Ville ( Urbain )","Loisir",186,32,5
+63,"HOTEL DU NORD","Bejaia","Ville ( Urbain )","Loisir",104,26,3
+64,"HOTEL LES ZIANIDES","Tlemcen","Ville ( Urbain )","Loisir",179,45,4
+65,"HOTEL CHAKER","Batna","Ville ( Urbain )","Affaire",141,37,5
+66,"HOTEL LE PACHA","Oran","Ville ( Urbain )","Détente",207,36,3
+67,"RESIDENCE ABLA-YASSMINE","Tlemcen","Ville ( Urbain )","Loisir",171,23,4
+68,"HOTEL SPACE TELEMLY","Alger","Ville ( Urbain )","Famille",150,44,5
+69,"HOTEL ST TOURISME","Alger","Ville ( Urbain )","Affaire",230,40,5
+70,"HOTEL LE CHEVAL BLANC","Oran","Ville ( Urbain )","Affaire",170,28,3
+71,"HOTEL MEDINA","Oran","Ville ( Urbain )","Loisir",110,26,3
+72,"HOTEL ASSLOUNI","Djelfa","Ville ( Urbain )","Loisir",200,20,5
+73,"HOTEL JARDY","Alger","Ville ( Urbain )","Affaire",246,47,5
+74,"HOTEL RADISSON BLU","Alger","Ville ( Urbain )","Détente",213,41,3
+75,"HOTEL MADAURE","Alger","Ville ( Urbain )","Loisir",145,49,3
+76,"HOTELSARASIN","Bejaia","Ville ( Urbain )","Loisir",272,31,4
+77,"HOTEL MESSAOUDI","Batna","Ville ( Urbain )","Détente",292,24,3
+78,"HOTEL TRAJAN","Batna","Ville ( Urbain )","Loisir",119,45,3
+79,"HOTEL HANI","Alger","Ville ( Urbain )","Détente",161,39,5
+80,"HOTEL M SUITE","Alger","Ville ( Urbain )","Détente",143,40,4
+81,"MF HOTEL ORAN","Oran","Ville ( Urbain )","Famille",213,42,4
+82,"HOTEL RAYA","Bejaia","Ville ( Urbain )","Famille",200,46,4
+83,"HOTEL LALLA DOUDJA","Alger","Ville ( Urbain )","Loisir",197,27,5
+84,"HOTEL BEST WESTERN COLOMBE","Oran","Ville ( Urbain )","Loisir",199,38,4
+85,"HOTEL L'OLYMPIC","Alger","Ville ( Urbain )","Affaire",259,22,5
+86,"HOTEL L'ESCALE","Oran","Ville ( Urbain )","Loisir",196,42,3
+87,"HOTEL GUETTAFI","Batna","Ville ( Urbain )","Loisir",281,22,3
+88,"HOTEL HOCINE","Constantine","Ville ( Urbain )","Loisir",149,22,3
+89," HOTEL  HAZEM","Batna","Ville ( Urbain )","Affaire",155,27,3
+90,"TIMGAD HOTEL EL HAZEM","Batna","Ville ( Urbain )","Famille",289,20,3
+91,"HOTEL DU PRINCE","Ain Témouchent","Ville ( Urbain )","Affaire",149,25,5
+92,"HOTEL BRAHIMI","Batna","Ville ( Urbain )","Affaire",150,32,4
+93,"HOTEL BEN OSMANE","Tebessa","Ville ( Urbain )","Détente",282,23,3
+94,"SOFIHOTEL","Oran","Ville ( Urbain )","Affaire",266,47,3
+118,"HOTEL EL MOUAHIDINE","Oran","Ville ( Urbain )","Détente",144,29,4
+119,"HOTEL HADIL","Oran","Ville ( Urbain )","Affaire",251,40,5
+120,"RESIDENCE MARMARA DENIZ","Oran","Ville ( Urbain )","Famille",109,20,5
+121,"HOTEL ATLANTIS BEJAIA AEROPORT","Bejaia","Ville ( Urbain )","Famille",242,49,5
+122,"HOTEL ATLANTIS AKBOU","Bejaia","Ville ( Urbain )","Famille",231,26,4
+123,"HOTEL DU VAL","Alger","Ville ( Urbain )","Loisir",187,30,4
+124,"HOTEL MISTRAL","Oran","Ville ( Urbain )","Détente",189,36,4
+125,"HOTEL TASSILI 1","Oran","Ville ( Urbain )","Famille",137,31,4
+126,"HOTEL EL BOUSTANE LAGHOUAT","Laghouat","Ville ( Urbain )","Détente",263,35,3
+127,"HOTEL RANIA","Laghouat","Ville ( Urbain )","Loisir",197,48,5
+128,"Hotel EL BIAR ","Alger","Ville ( Urbain )","Affaire",297,29,4
+129,"HOTEL EL MAHDI","Batna","Ville ( Urbain )","Détente",300,41,3
+130,"HOTEL MARAVAL","Oran","Ville ( Urbain )","Affaire",260,28,5
+131,"HOTEL LES ORANGERS","Chlef","Ville ( Urbain )","Famille",216,37,5
+132,"HOTEL NOVA","Alger","Ville ( Urbain )","Affaire",222,20,5
+133,"HOTEL FERDI LILLY","Alger","Ville ( Urbain )","Loisir",171,43,3
+134,"HOTEL RODINA","Oran","Ville ( Urbain )","Loisir",182,26,4
+135,"ROYAL HOTEL ORAN - MGALLERY","Oran","Ville ( Urbain )","Loisir",146,22,4
+136,"HOTEL MERCURE","Alger","Ville ( Urbain )","Détente",296,24,5
+95,"HOTEL RUE D'OR","Setif","Ville ( Urbain )","Loisir",244,32,5
+96,"HOTEL PALACIO","Mostaganem","Ville ( Urbain )","Loisir",234,28,3
+97,"HOTEL LIBERTE","Oran","Ville ( Urbain )","Détente",289,26,4
+98,"HOTEL LIBERTE EXPRESS","Oran","Ville ( Urbain )","Détente",192,22,4
+99,"LIBERTE EXPRESS APPART-HOTEL","Oran","Ville ( Urbain )","Affaire",271,27,4
+100,"HOTEL VENT-DOME KHALED","Oran","Ville ( Urbain )","Famille",265,50,5
+101,"HOTEL LE TELEPHERIQUE","Annaba","Ville ( Urbain )","Loisir",286,23,5
+102,"HOTEL LA TAFNA","Tlemcen","Ville ( Urbain )","Famille",244,45,3
+103,"NUMIDIEN HÔTEL","Alger","Ville ( Urbain )","Affaire",291,22,4
+104,"MH HOTEL","Oran","Ville ( Urbain )","Détente",293,40,3
+105,"HOTEL LES JASMINS","Batna","Ville ( Urbain )","Loisir",211,50,5
+106,"HOTEL MADERA","Batna","Ville ( Urbain )","Détente",241,43,5
+107,"HOTEL VILLE DES ROSES","Blida","Ville ( Urbain )","Affaire",247,27,3
+108,"HOTEL EL AMINE","Boumerdes","Ville ( Urbain )","Loisir",112,28,5
+109,"HOTEL IBIRIS","Oran","Ville ( Urbain )","Détente",240,42,4
+110,"HOTEL BRAHMI","Bejaia","Ville ( Urbain )","Famille",281,35,4
+111,"HOTEL LES AMBASSADEURS","Oran","Ville ( Urbain )","Affaire",149,46,4
+112,"HOTEL MARHABA","Laghouat","Ville ( Urbain )","Détente",196,25,5
+113,"HOTEL EL FORSANE","Saida","Ville ( Urbain )","Détente",167,50,5
+114,"HOTEL LES ABBASSIDES TIARET","Tiaret","Ville ( Urbain )","Détente",296,46,3
+115,"HOTEL ARC EN CIEL 1","Constantine","Ville ( Urbain )","Loisir",188,46,5
+116,"HOTEL ARC EN CIEL 2","Constantine","Ville ( Urbain )","Famille",218,38,5
+117,"RESIDENCE JASMINS","Oran","Ville ( Urbain )","Affaire",158,21,4
+137,"HOTEL BEL AIR 1","Ain Témouchent","Ville ( Urbain )","Détente",130,40,3
+138,"HOTEL BEL AIR 2","Ain Témouchent","Ville ( Urbain )","Famille",263,29,5
+139,"HOTEL ATLANTIS AIR DE FRANCE","Alger","Ville ( Urbain )","Détente",235,43,4
+140,"HOTEL EDEN STOP","Ain Témouchent","Ville ( Urbain )","Famille",121,42,4
+141,"HOTEL AZ KOUBA","Alger","Ville ( Urbain )","Loisir",194,39,5
+142,"HOTEL AZ VIEUX KOUBA","Alger","Ville ( Urbain )","Loisir",207,45,3
+143,"HOTEL TULIP INN NAYA","Alger","Ville ( Urbain )","Famille",248,23,4
+144,"HOTEL EDEN BEL ABBAS","Sidi Belabbes","Ville ( Urbain )","Famille",293,31,5
+145,"HOTEL AZ GRAND ORAN","Oran","Ville ( Urbain )","Loisir",256,40,5
+146,"HOTEL EVASION BY LIBERTE","Oran","Ville ( Urbain )","Détente",169,41,5
+147,"HOTEL BAY DIAB","Alger","Ville ( Urbain )","Détente",297,43,5
